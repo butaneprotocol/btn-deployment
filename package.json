@@ -1,0 +1,11 @@
+{
+    "name": "btn-deployment",
+    "version": "1.0.0",
+    "description": "Smart contracts for the butane token",
+    "author": "Micah Kendall",
+    "scripts": {
+        "build": "./build.sh",
+        "archive": "./build.sh > archive.txt"
+    }
+  }
+  
